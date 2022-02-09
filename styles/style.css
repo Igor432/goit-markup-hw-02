@@ -83,7 +83,7 @@ h1 {
     background-color: var(--brand-dark);
 }
 
-.container4 {
+.team {
     background-color: var(--brand-grey);
 }
 
@@ -95,15 +95,13 @@ h1 {
 
 .quality_list>p {
     font-size: 14px;
-    font-weight: 400;
     line-height: 1.7;
 }
 
 .team-list>h2 {
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.1;
-    font-size: 24;
+    font-size: 24px;
 }
 
 .teamlist>h3 {
