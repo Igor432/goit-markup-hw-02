@@ -1,8 +1,8 @@
 :root {
-    --brand-grey: #F5F4FA;
-    --blue-color: #2196F3;
+    --brand-grey: #f5f4fa;
+    --blue-color: #2196f3;
     --h-color: #212121;
-    --brand-dark: #2F303A;
+    --brand-dark: #2f303a;
     --p-color: #757575;
 }
 
@@ -82,7 +82,7 @@ body {
     font-weight: 900;
     line-height: 1.3;
     letter-spacing: 0.06em;
-    color: #FFFFFF;
+    color: #ffffff;
     text-align: center;
     text-transform: uppercase;
 }
@@ -94,7 +94,7 @@ body {
     line-height: 1.8;
     letter-spacing: 0.06em;
     cursor: pointer;
-    color: #FFFFFF;
+    color: #ffffff;
     text-align: center;
     font-family: Roboto;
 }
@@ -172,7 +172,7 @@ body {
     line-height: 1.1;
     text-align: center;
     letter-spacing: 0.03em;
-    color: var(--brand-dark)
+    color: var(--brand-dark);
 }
 
 .teamlist-p {
@@ -199,7 +199,7 @@ footer {
     font-size: 26px;
     font-weight: 700;
     line-height: 1.2;
-    color: #FFFFFF;
+    color: #ffffff;
     text-decoration: none;
     letter-spacing: 0.03em;
 }
@@ -212,7 +212,7 @@ footer {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: #ffffff;
     text-decoration: none;
 }
 
