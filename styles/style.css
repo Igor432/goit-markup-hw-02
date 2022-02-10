@@ -90,7 +90,6 @@ body {
 .order-button {
     background-color: var(--blue-color);
     font-size: 16px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.8;
     letter-spacing: 0.06em;
