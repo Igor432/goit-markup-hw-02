@@ -288,6 +288,7 @@ footer {
 
 .buttons:focus {
     background-color: var(--blue-color);
+    color: white;
 }
 
 .buttons:hover {
