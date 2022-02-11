@@ -190,7 +190,7 @@ footer {
     background-color: var(--brand-dark);
 }
 
-.address {
+#address {
     list-style: none;
 }
 
